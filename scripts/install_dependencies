@@ -2,6 +2,7 @@
 
 set -e
 
+#Test
 CATALINA_HOME=/usr/share/tomcat7-codedeploy
 
 # Tar file name
